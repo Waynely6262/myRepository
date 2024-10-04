@@ -1,2 +1,2 @@
 # myRepository
-It is a repository
+The start of a journey.
